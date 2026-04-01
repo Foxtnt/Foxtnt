@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- Construindo base sólida em desenvolvimento web e banco de dados.
+- [Ddesenvolvimento web e banco de dados.
 - Evoluindo com projetos autorais para portfólio e prática real.
-- Interesse em oportunidades para crescer como Dev Back-End Júnior.
+- Interesse em oportunidades para crescer como Dev Back-End - Front Júnior.
 
 ---
 
