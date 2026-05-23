@@ -62,7 +62,8 @@
 
 ## 🌐 Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/brunocorreas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([www.linkedin.com/in/brunocorreas](https://www.linkedin.com/in/brunocorreas/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]()
 [![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/brunopcorreadasilva/)
 [![TikTok](https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=FFFFFF)](https://www.tiktok.com/@brfox.games)
 [![YouTube](https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@BrunoCorreaS)
